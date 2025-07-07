@@ -30,14 +30,14 @@ The frontend allows users to upload a leaf image, and the backend (Flask) serves
 
 ## 🧰 Features
 
-- ✅ Upload leaf images from any device
-- ✅ Real-time prediction using DenseNet
-- ✅ JSON-based mapping for:
+- Upload leaf images from any device
+- Real-time prediction using DenseNet
+- JSON-based mapping for:
   - 🔍 Disease details
   - 🌾 Prevention & treatment
   - 🌱 Fertilizer suggestions
-- ✅ Easy-to-use frontend
-- ✅ Runs locally or deploys easily
+- Easy-to-use frontend
+- Runs locally or deploys easily
 
 ---
 
