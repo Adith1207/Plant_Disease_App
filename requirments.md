@@ -30,3 +30,8 @@ pip install torch torchvision flask pillow numpy
 ```
 
 ## 📌 Including Optional Packages
+
+You can install all required packages using the following:
+```bash
+pip install torch torchvision flask pillow numpy pandas gunicorn
+```
