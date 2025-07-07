@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Plant Disease Detector</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+  <!-- Bootstrap & Google Fonts -->
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@400;600&display=swap" rel="stylesheet">
+
+  <!-- Custom Styles -->
+  <style>
+    body {
+      font-family: 'Poppins', sans-serif;
+      scroll-behavior: smooth;
+    }
+
+    .navbar {
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+    }
+
+    #home {
+      background: linear-gradient(to right, #d4fc79, #96e6a1);
+      min-height: 100vh;
+      display: flex;
+      flex-direction: column;
+      justify-content: center;
+      align-items: center;
+      text-align: center;
+      color: #1e4620;
+      padding: 60px 20px;
+    }
+
+    #home h1 {
+      font-size: 3rem;
+      font-weight: 600;
+    }
+
+    form {
+      background: #ffffffdd;
+      padding: 20px;
+      border-radius: 12px;
+      box-shadow: 0 4px 20px rgba(0, 0, 0, 0.1);
+      max-width: 500px;
+      width: 100%;
+    }
+
+    .result {
+      background-color: #f9fff9;
+      padding: 25px;
+      border-left: 6px solid #198754;
+      border-radius: 10px;
+      box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);
+    }
+
+    section h2 {
+      margin-bottom: 20px;
+      font-weight: 600;
+    }
+
+    footer {
+      background-color: #14532d;
+    }
+
+    .icon {
+      font-size: 2rem;
+    }
+
+    /* Smooth section reveal */
+    section {
+      opacity: 0;
+      transform: translateY(20px);
+      transition: opacity 0.6s ease, transform 0.6s ease;
+    }
+
+    section.show {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  </style>
+</head>
+<body>
+
+  <!-- Navbar -->
+  <nav class="navbar navbar-expand-lg navbar-dark bg-success fixed-top">
+    <div class="container-fluid">
+      <a class="navbar-brand" href="#home">🌿 Plant Detector</a>
+      <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+        <span class="navbar-toggler-icon"></span>
+      </button>
+      <div class="collapse navbar-collapse" id="navbarNav">
+        <ul class="navbar-nav ms-auto">
+          <li class="nav-item"><a class="nav-link active" href="#home">Home</a></li>
+          <li class="nav-item"><a class="nav-link" href="#about">About</a></li>
+          <li class="nav-item"><a class="nav-link" href="#contact">Contact</a></li>
+        </ul>
+      </div>
+    </div>
+  </nav>
+
+  <!-- Home Section -->
+  <section id="home">
+    <h1>🌿 Smart Plant Disease Detector</h1>
+    <p class="mb-4">Upload a leaf image to get instant diagnosis, prevention tips, and fertilizer advice.</p>
+
+    <form method="POST" enctype="multipart/form-data">
+      <input class="form-control mb-3" type="file" name="image" accept="image/*" capture="environment" required>
+      <button class="btn btn-success w-100" type="submit">🔍 Predict</button>
+    </form>
+
+    {% if result %}
+    <div class="result mt-5">
+      <h2>🩺 Prediction: <strong>{{ result.PredictedClass }}</strong></h2>
+      <h4 class="mt-4">🛡️ Prevention Tips</h4>
+      <p>{{ result.PreventionTips }}</p>
+      <h4>🌿 Fertilizer Recommendations</h4>
+      <p>{{ result.FertilizerRecommendations }}</p>
+    </div>
+    {% endif %}
+  </section>
+
+ 
+  <!-- About Section -->
+<section id="about" class="py-5" style="background-color: #f4fff4;">
+  <div class="container">
+    <div class="text-center mb-4">
+      <h2 class="fw-bold">🌱 About Our Project</h2>
+      <p class="text-muted">Empowering farmers with AI to promote sustainable agriculture</p>
+    </div>
+
+    <div class="row g-4">
+      <!-- Card 1 -->
+      <div class="col-md-4">
+        <div class="card border-0 shadow-sm h-100">
+          <div class="card-body text-center">
+            <div class="mb-3">
+              <span class="fs-1 text-success">🧠</span>
+            </div>
+            <h5 class="card-title fw-semibold">AI-Powered Diagnosis</h5>
+            <p class="card-text">Our system uses advanced deep learning to detect plant diseases from leaf images with high accuracy.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 2 -->
+      <div class="col-md-4">
+        <div class="card border-0 shadow-sm h-100">
+          <div class="card-body text-center">
+            <div class="mb-3">
+              <span class="fs-1 text-success">🛡️</span>
+            </div>
+            <h5 class="card-title fw-semibold">Prevention & Care</h5>
+            <p class="card-text">Provides actionable prevention tips and care guidance to stop disease spread and enhance plant health.</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Card 3 -->
+      <div class="col-md-4">
+        <div class="card border-0 shadow-sm h-100">
+          <div class="card-body text-center">
+            <div class="mb-3">
+              <span class="fs-1 text-success">🌾</span>
+            </div>
+            <h5 class="card-title fw-semibold">Sustainable Farming</h5>
+            <p class="card-text">Supports eco-friendly agriculture by suggesting optimal fertilizers and reducing chemical misuse.</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+
+  <!-- Contact Section -->
+<section id="contact" class="py-5" style="background-color: #e9fbe5;">
+  <div class="container">
+    <div class="text-center mb-4">
+      <h2 class="fw-bold">📬 Get in Touch</h2>
+      <p class="text-muted">We're here to help you with questions, feedback, or collaborations.</p>
+    </div>
+
+    <div class="row g-4 justify-content-center">
+      <!-- Email Card -->
+      <div class="col-md-4">
+        <div class="card border-0 shadow-sm h-100">
+          <div class="card-body text-center">
+            <div class="mb-3 fs-1 text-success">📧</div>
+            <h5 class="card-title fw-semibold">Email</h5>
+            <p class="card-text">support@plantdetector.ai</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Phone Card -->
+      <div class="col-md-4">
+        <div class="card border-0 shadow-sm h-100">
+          <div class="card-body text-center">
+            <div class="mb-3 fs-1 text-success">📞</div>
+            <h5 class="card-title fw-semibold">Phone</h5>
+            <p class="card-text">+91-98765-43210</p>
+          </div>
+        </div>
+      </div>
+
+      <!-- Location Card -->
+      <div class="col-md-4">
+        <div class="card border-0 shadow-sm h-100">
+          <div class="card-body text-center">
+            <div class="mb-3 fs-1 text-success">📍</div>
+            <h5 class="card-title fw-semibold">Location</h5>
+            <p class="card-text">AgriTech Research Lab, India</p>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+
+  <!-- Footer -->
+  <footer class="text-white text-center py-3">
+    <p class="mb-0">&copy; 2025 Plant Disease Detector | Made with ❤️ for sustainable farming</p>
+  </footer>
+
+  <!-- Scripts -->
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js"></script>
+  <script>
+    // Reveal sections on scroll
+    const sections = document.querySelectorAll("section");
+    const reveal = () => {
+      const triggerBottom = window.innerHeight / 1.1;
+      sections.forEach(section => {
+        const sectionTop = section.getBoundingClientRect().top;
+        if (sectionTop < triggerBottom) {
+          section.classList.add("show");
+        }
+      });
+    };
+    window.addEventListener("scroll", reveal);
+    window.addEventListener("load", reveal);
+  </script>
+</body>
+</html>

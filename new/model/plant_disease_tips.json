@@ -1,0 +1,82 @@
+{
+    "Apple___Apple_scab": {
+        "prevention_tips": "Prune for airflow, apply fungicide early, remove fallen leaves.",
+        "recommended_fertilizers": "10-10-10 NPK fertilizer in early spring."
+    },
+    "Apple___Black_rot": {
+        "prevention_tips": "Remove infected fruit, twigs, and mummified apples.",
+        "recommended_fertilizers": "Compost and calcium-rich fertilizers."
+    },
+    "Apple___Cedar_apple_rust": {
+        "prevention_tips": "Plant resistant varieties, remove nearby cedars, apply fungicides.",
+        "recommended_fertilizers": "Potassium sulfate for disease resistance."
+    },
+    "Apple___healthy": {
+        "prevention_tips": "Maintain pruning, irrigation, and fertilization.",
+        "recommended_fertilizers": "Balanced 10-10-10 fertilizer."
+    },
+    "Blueberry___healthy": {
+        "prevention_tips": "Maintain acidic soil, prune regularly, and mulch.",
+        "recommended_fertilizers": "Use ammonium sulfate fertilizer."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "prevention_tips": "Apply sulfur-based fungicide, improve air circulation.",
+        "recommended_fertilizers": "Low-nitrogen, high-potassium fertilizer (5-10-10)."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "prevention_tips": "Annual pruning and disease monitoring.",
+        "recommended_fertilizers": "Balanced 10-10-10 fertilizer."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "prevention_tips": "Rotate crops, use resistant hybrids, apply fungicide.",
+        "recommended_fertilizers": "Nitrogen-rich fertilizer with zinc."
+    },
+    "Corn_(maize)___Common_rust": {
+        "prevention_tips": "Plant resistant varieties, use fungicides early.",
+        "recommended_fertilizers": "Balanced NPK with micronutrients."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "prevention_tips": "Use resistant varieties, rotate crops.",
+        "recommended_fertilizers": "High-nitrogen fertilizer during early growth."
+    },
+    "Corn_(maize)___healthy": {
+        "prevention_tips": "Monitor nutrient levels and maintain crop spacing.",
+        "recommended_fertilizers": "20-10-10 or urea-based fertilizers."
+    },
+    "Grape___Black_rot": {
+        "prevention_tips": "Prune infected parts, apply fungicide at bud break.",
+        "recommended_fertilizers": "Use potassium and phosphorus-based fertilizers."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "prevention_tips": "Remove infected vines, apply fungicides, improve drainage.",
+        "recommended_fertilizers": "Balanced fertilizer with iron and zinc."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "prevention_tips": "Spray fungicide, remove infected leaves.",
+        "recommended_fertilizers": "Organic compost with potassium."
+    },
+    "Grape___healthy": {
+        "prevention_tips": "Annual pruning and weed control.",
+        "recommended_fertilizers": "Balanced 10-10-10 or manure-based fertilizer."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "prevention_tips": "Use disease-free saplings, control psyllid insects.",
+        "recommended_fertilizers": "Micronutrient mix with zinc, boron, and manganese."
+    },
+    "Peach___Bacterial_spot": {
+        "prevention_tips": "Prune infected branches, apply copper-based fungicides.",
+        "recommended_fertilizers": "Potassium sulfate and low-nitrogen fertilizer."
+    },
+    "Peach___healthy": {
+        "prevention_tips": "Avoid overhead watering, ensure proper drainage.",
+        "recommended_fertilizers": "Balanced fertilizer in early spring."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "prevention_tips": "Use certified seeds, apply copper sprays.",
+        "recommended_fertilizers": "Phosphorus-rich fertilizer (5-10-10)."
+    },
+    "Pepper,_bell___healthy": {
+        "prevention_tips": "Practice crop rotation and water management.",
+        "recommended_fertilizers": "Balanced NPK or compost tea."
+    }
+}

@@ -1,0 +1,362 @@
+[
+  {
+    "ClassName": "Apple___alternaria_leaf_spot",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Apple___black_rot",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Apple___brown_spot",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Apple___gray_spot",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Apple___healthy",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Apple___rust",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Apple___scab",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Bell_pepper___bacterial_spot",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Bell_pepper___healthy",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Blueberry___healthy",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Cassava___bacterial_blight",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Cassava___brown_streak_disease",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Cassava___green_mottle",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Cassava___healthy",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Cassava___mosaic_disease",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Cherry___healthy",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Cherry___powdery_mildew",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Coffee___healthy",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Coffee___red_spider_mite",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Coffee___rust",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Corn___common_rust",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Corn___gray_leaf_spot",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Corn___healthy",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Corn___northern_leaf_blight",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Grape___Leaf_blight",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Grape___black_measles",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Grape___black_rot",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Grape___healthy",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Grape___leaf_blight",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Orange___citrus_greening",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Peach___bacterial_spot",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Peach___healthy",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Potato___bacterial_wilt",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Potato___early_blight",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Potato___healthy",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Potato___late_blight",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Potato___leafroll_virus",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Potato___mosaic_virus",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Potato___nematode",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Potato___pests",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Potato___phytophthora",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Raspberry___healthy",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Rice___bacterial_blight",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Rice___blast",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Rice___brown_spot",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Rice___tungro",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Rose___healthy",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Rose___rust",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Rose___slug_sawfly",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Soybean___healthy",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Squash___powdery_mildew",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Strawberry___healthy",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Strawberry___leaf_scorch",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Sugercane___healthy",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Sugercane___mosaic",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Sugercane___red_rot",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Sugercane___rust",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Sugercane___yellow_leaf",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Tomato___bacterial_spot",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Tomato___early_blight",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Tomato___healthy",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Tomato___late_blight",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Tomato___leaf_curl",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Tomato___leaf_mold",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Tomato___mosaic_virus",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  },
+  {
+    "ClassName": "Tomato___septoria_leaf_spot",
+    "PreventionTips": "Use disease-resistant plant varieties.",
+    "FertilizerRecommendation": "Supplement with micronutrients like zinc and boron."
+  },
+  {
+    "ClassName": "Tomato___spider_mites",
+    "PreventionTips": "Avoid overhead watering.",
+    "FertilizerRecommendation": "Use potassium-rich fertilizer."
+  },
+  {
+    "ClassName": "Tomato___target_spot",
+    "PreventionTips": "Remove and destroy infected plant parts.",
+    "FertilizerRecommendation": "Apply urea in moderate quantities."
+  },
+  {
+    "ClassName": "Watermelon___anthracnose",
+    "PreventionTips": "Practice crop rotation and sanitation.",
+    "FertilizerRecommendation": "Use phosphorus-rich base fertilizer."
+  },
+  {
+    "ClassName": "Watermelon___downy_mildew",
+    "PreventionTips": "Monitor soil health and pH.",
+    "FertilizerRecommendation": "Use controlled-release fertilizers."
+  },
+  {
+    "ClassName": "Watermelon___healthy",
+    "PreventionTips": "Ensure proper spacing and air flow.",
+    "FertilizerRecommendation": "Apply balanced NPK fertilizer."
+  },
+  {
+    "ClassName": "Watermelon___mosaic_virus",
+    "PreventionTips": "Apply appropriate fungicides or pesticides.",
+    "FertilizerRecommendation": "Use compost or organic manure."
+  }
+]

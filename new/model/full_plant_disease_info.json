@@ -1,0 +1,154 @@
+{
+    "Apple___Apple_scab": {
+        "prevention_tips": "Prune for airflow, apply fungicide early, remove fallen leaves.",
+        "recommended_fertilizers": "10-10-10 NPK fertilizer in early spring."
+    },
+    "Apple___Black_rot": {
+        "prevention_tips": "Remove infected fruit, twigs, and mummified apples.",
+        "recommended_fertilizers": "Compost and calcium-rich fertilizers."
+    },
+    "Apple___Cedar_apple_rust": {
+        "prevention_tips": "Plant resistant varieties, remove nearby cedars, apply fungicides.",
+        "recommended_fertilizers": "Potassium sulfate for disease resistance."
+    },
+    "Apple___healthy": {
+        "prevention_tips": "Maintain pruning, irrigation, and fertilization.",
+        "recommended_fertilizers": "Balanced 10-10-10 fertilizer."
+    },
+    "Blueberry___healthy": {
+        "prevention_tips": "Maintain acidic soil, prune regularly, and mulch.",
+        "recommended_fertilizers": "Use ammonium sulfate fertilizer."
+    },
+    "Cherry_(including_sour)___Powdery_mildew": {
+        "prevention_tips": "Apply sulfur-based fungicide, improve air circulation.",
+        "recommended_fertilizers": "Low-nitrogen, high-potassium fertilizer (5-10-10)."
+    },
+    "Cherry_(including_sour)___healthy": {
+        "prevention_tips": "Annual pruning and disease monitoring.",
+        "recommended_fertilizers": "Balanced 10-10-10 fertilizer."
+    },
+    "Corn_(maize)___Cercospora_leaf_spot Gray_leaf_spot": {
+        "prevention_tips": "Rotate crops, use resistant hybrids, apply fungicide.",
+        "recommended_fertilizers": "Nitrogen-rich fertilizer with zinc."
+    },
+    "Corn_(maize)___Common_rust_": {
+        "prevention_tips": "Plant resistant varieties, use fungicides early.",
+        "recommended_fertilizers": "Balanced NPK with micronutrients."
+    },
+    "Corn_(maize)___Northern_Leaf_Blight": {
+        "prevention_tips": "Use resistant varieties, rotate crops.",
+        "recommended_fertilizers": "High-nitrogen fertilizer during early growth."
+    },
+    "Corn_(maize)___healthy": {
+        "prevention_tips": "Monitor nutrient levels and maintain crop spacing.",
+        "recommended_fertilizers": "20-10-10 or urea-based fertilizers."
+    },
+    "Grape___Black_rot": {
+        "prevention_tips": "Prune infected parts, apply fungicide at bud break.",
+        "recommended_fertilizers": "Use potassium and phosphorus-based fertilizers."
+    },
+    "Grape___Esca_(Black_Measles)": {
+        "prevention_tips": "Remove infected vines, apply fungicides, improve drainage.",
+        "recommended_fertilizers": "Balanced fertilizer with iron and zinc."
+    },
+    "Grape___Leaf_blight_(Isariopsis_Leaf_Spot)": {
+        "prevention_tips": "Spray fungicide, remove infected leaves.",
+        "recommended_fertilizers": "Organic compost with potassium."
+    },
+    "Grape___healthy": {
+        "prevention_tips": "Annual pruning and weed control.",
+        "recommended_fertilizers": "Balanced 10-10-10 or manure-based fertilizer."
+    },
+    "Orange___Haunglongbing_(Citrus_greening)": {
+        "prevention_tips": "Use disease-free saplings, control psyllid insects.",
+        "recommended_fertilizers": "Micronutrient mix with zinc, boron, and manganese."
+    },
+    "Peach___Bacterial_spot": {
+        "prevention_tips": "Prune infected branches, apply copper-based fungicides.",
+        "recommended_fertilizers": "Potassium sulfate and low-nitrogen fertilizer."
+    },
+    "Peach___healthy": {
+        "prevention_tips": "Avoid overhead watering, ensure proper drainage.",
+        "recommended_fertilizers": "Balanced fertilizer in early spring."
+    },
+    "Pepper,_bell___Bacterial_spot": {
+        "prevention_tips": "Use certified seeds, apply copper sprays.",
+        "recommended_fertilizers": "Phosphorus-rich fertilizer (5-10-10)."
+    },
+    "Pepper,_bell___healthy": {
+        "prevention_tips": "Practice crop rotation and water management.",
+        "recommended_fertilizers": "Balanced NPK or compost tea."
+    },
+    "Potato___Early_blight": {
+        "prevention_tips": "Use certified seeds, remove plant debris.",
+        "recommended_fertilizers": "Potassium nitrate and phosphates."
+    },
+    "Potato___Late_blight": {
+        "prevention_tips": "Avoid wet foliage, apply fungicide proactively.",
+        "recommended_fertilizers": "Fertilizers high in potassium and phosphorus."
+    },
+    "Potato___healthy": {
+        "prevention_tips": "Mound soil regularly, avoid overhead watering.",
+        "recommended_fertilizers": "10-20-20 or 15-15-15 NPK blend."
+    },
+    "Raspberry___healthy": {
+        "prevention_tips": "Prune canes annually and apply mulch.",
+        "recommended_fertilizers": "Composted manure or berry fertilizers."
+    },
+    "Soybean___healthy": {
+        "prevention_tips": "Plant in well-drained soils and monitor for pests.",
+        "recommended_fertilizers": "Rhizobium inoculation and potassium-based fertilizers."
+    },
+    "Squash___Powdery_mildew": {
+        "prevention_tips": "Apply sulfur sprays, avoid overhead watering.",
+        "recommended_fertilizers": "Compost-rich soil with balanced nutrients."
+    },
+    "Strawberry___Leaf_scorch": {
+        "prevention_tips": "Remove old leaves and mulch properly.",
+        "recommended_fertilizers": "Phosphorus-rich fertilizer during flowering."
+    },
+    "Strawberry___healthy": {
+        "prevention_tips": "Plant in raised beds, remove runners.",
+        "recommended_fertilizers": "10-10-10 or berry-specific fertilizers."
+    },
+    "Tomato___Bacterial_spot": {
+        "prevention_tips": "Avoid wet leaves, use copper fungicide.",
+        "recommended_fertilizers": "Phosphorus-based fertilizer to promote root health."
+    },
+    "Tomato___Early_blight": {
+        "prevention_tips": "Remove infected leaves, rotate crops.",
+        "recommended_fertilizers": "Potassium-rich fertilizer (5-10-10)."
+    },
+    "Tomato___Late_blight": {
+        "prevention_tips": "Use resistant varieties, destroy infected plants.",
+        "recommended_fertilizers": "Low nitrogen, high potassium and calcium fertilizer."
+    },
+    "Tomato___Leaf_Mold": {
+        "prevention_tips": "Ensure good air circulation and apply fungicides.",
+        "recommended_fertilizers": "Calcium nitrate and potassium sulfate."
+    },
+    "Tomato___Septoria_leaf_spot": {
+        "prevention_tips": "Water at base, remove infected foliage.",
+        "recommended_fertilizers": "Balanced NPK (10-10-10)."
+    },
+    "Tomato___Spider_mites Two-spotted_spider_mite": {
+        "prevention_tips": "Spray neem oil and increase humidity.",
+        "recommended_fertilizers": "Organic seaweed-based fertilizers."
+    },
+    "Tomato___Target_Spot": {
+        "prevention_tips": "Rotate crops, apply fungicide at early sign.",
+        "recommended_fertilizers": "Potassium-rich fertilizer."
+    },
+    "Tomato___Tomato_Yellow_Leaf_Curl_Virus": {
+        "prevention_tips": "Control whiteflies, use reflective mulches.",
+        "recommended_fertilizers": "Zinc and magnesium-enriched fertilizers."
+    },
+    "Tomato___Tomato_mosaic_virus": {
+        "prevention_tips": "Disinfect tools, avoid smoking around plants.",
+        "recommended_fertilizers": "Complete micronutrient fertilizer."
+    },
+    "Tomato___healthy": {
+        "prevention_tips": "Stake plants, mulch, and prune lower leaves.",
+        "recommended_fertilizers": "Balanced tomato fertilizer or compost."
+    }
+}
